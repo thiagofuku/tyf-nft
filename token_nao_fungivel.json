@@ -1,0 +1,12 @@
+{
+  "name": "TFY Não fungivel",
+  "description": "Descrição TFY Não fungivel",
+  "external_url": "https://pt.wikipedia.org/wiki/Moeda#:~:text=Moeda%20%C3%A9%20um%20meio%20de,saque%20sobre%20o%20produto%20social.",
+  "image": "https://images.unsplash.com/photo-1579468118288-682e600b8565?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "attributes": [
+      {
+          "trait_type": "Moeda",
+          "value": "Sim"
+      }
+  ]
+}
